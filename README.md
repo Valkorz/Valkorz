@@ -3,49 +3,6 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Lilita+One&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap" rel="stylesheet">
 
-<!-- Centered Header with Custom Font -->
-<style>
-*{
-    text-align: center;
-}
-
-.lilita-one-regular {
-  font-family: "Lilita One", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.roboto-mono-lilita {
-  font-family: "Roboto Mono", serif;
-  font-optical-sizing: auto;
-  font-weight: normal;
-  font-style: normal;
-}
-
-.bebas-neue-regular {
-  font-family: "Bebas Neue", serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-h1{
-    font-family: "Lilita One";
-    text-align: center;
-}
-
-h2{
-    font-family: "Lilita One";
-    text-align: center;
-}
-
-h3{
-    font-family: "Lilita One";
-    text-align: center;
-}
-
-
-</style>
-
 ## Hello, Welcome to my page!
 
 ---
