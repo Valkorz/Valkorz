@@ -45,15 +45,15 @@ h3{
 
 
 </style>
+<h1 style="display:flex; color:rgb(61, 124, 227); outline: black dashed 1px; height:200px; justify-content:center; align-items: center; flex-direction: column">
+Hello, Welcome to my page! 
+</p><a href="#"><img src="https://img.shields.io/badge/ReadMe-018EF5?logo=readme&logoColor=fff" alt="ReadMe"> </a>
+</h1>
 
-## Hello, Welcome to my page!
 
----
 
 ## 🚀 About Me
 I'm a lover of math, physics and computers! Mechatronics technician and currently undergraduate in Computer Engineering at **Facens Sorocaba** (School of Engineering). I love working on different projects ranging from Web Development to low level solutions with C/C++, especially those related to artificial intelligence.
-
----
 
 ## 🛠️ Technologies & Tools
 **Languages**: [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white) [![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#) ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python) ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#) [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#) [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
@@ -63,25 +63,18 @@ I'm a lover of math, physics and computers! Mechatronics technician and currentl
 
 <!-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) -->
 
----
-
 
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Valkorz&layout=compact&theme=graywhite)
-
----
 
 ## 📂 Projects
 ### Project 1: [Restaurant Menu Website](https://github.com/Valkorz/RestaurantMenu)
 ![Restaurant Menu Website](https://github-readme-stats.vercel.app/api/pin/?username=Valkorz&repo=RestaurantMenu&theme=graywhite)
 A restaurant menu website I've made using pure html/css as a second semester Web Design assignment.
 
-
 ### Project 2: [Database API](https://github.com/Valkorz/DatabaseApi)
 ![Restaurant Menu Website](https://github-readme-stats.vercel.app/api/pin/?username=Valkorz&repo=DatabaseApi&theme=graywhite)
 An API project using Dotnet Core MVC and Entity Framework, which adds SQLite functionality and endpoints for receiving JSON bodies that are then transcribed into a database file. Serves as a generic Task List application but can be repurposed for any desired functionality. Also contains detailed documentation on how to start and setup your own Dotnet Core MVC. (Soon I'll add a minimal API branch to it).
-
----
 
 ## 📫 Contact Me
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) **-->** [pivarcivittorio@gmail.com](mailto:pivarcivittorio@gmail.com)
