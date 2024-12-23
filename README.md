@@ -20,9 +20,9 @@ I'm a lover of math, physics and computers! Mechatronics technician and currentl
 
 
 ## 📂 Projects
-### Project 1: [Restaurant Menu Website](https://github.com/Valkorz/RestaurantMenu)
-![Restaurant Menu Website](https://github-readme-stats.vercel.app/api/pin/?username=Valkorz&repo=RestaurantMenu&theme=graywhite)
-A restaurant menu website I've made using pure html/css as a second semester Web Design assignment.
+### Project 1: [Audio Streaming Website](https://github.com/Valkorz/AudioPlayerApp)
+![Restaurant Menu Website](https://github-readme-stats.vercel.app/api/pin/?username=Valkorz&repo=AudioPlayerApp&theme=graywhite)
+An Audio/Music streaming website created with css/html and bootstrap. A collaborative project constructed during the second semester of university.
 
 
 ### Project 2: [Database API](https://github.com/Valkorz/DatabaseApi)
