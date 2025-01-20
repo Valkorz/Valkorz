@@ -34,7 +34,7 @@ An API project using Dotnet Core MVC and Entity Framework, which adds SQLite fun
 ### Project 3: [CVToolBox](https://github.com/Valkorz/CVToolBox)
 ![CVToolBox](https://github-readme-stats.vercel.app/api/pin/?username=Valkorz&repo=CVToolBox&theme=graywhite)
 
-A work-in-progress Computer Vision and Artificial Intelligence library build entirely in C. The main goal is to create a library containing definitions for different data structures and AI algorithms, similar to frameworks/libraries such as OpenCV, PyTorch and TensorFlow. The main intent of the project is to educate myself on the detailed functionality of artificial intelligence, whilst taking big examples (such as PyTorch) as an example.
+A work-in-progress Computer Vision and Artificial Intelligence library build entirely in C. The main goal is to create a library containing definitions for different data structures and AI algorithms, similar to frameworks/libraries such as OpenCV, PyTorch and TensorFlow. The main intent of the project is to educate myself on the detailed functionality of artificial intelligence.
 
 
 ## 📫 Contact Me
