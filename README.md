@@ -26,12 +26,12 @@ I'm a lover of math, physics and computers! Mechatronics technician and currentl
 An Audio/Music streaming website created with css/html and bootstrap. A collaborative project constructed during the second semester of university.
 
 
-### Project 2: [Database API](https://github.com/Valkorz/DatabaseApi)
+### Project 2: [dotnet-tasklist-api](https://github.com/Valkorz/DatabaseApi)
 ![Database API](https://github-readme-stats.vercel.app/api/pin/?username=Valkorz&repo=DatabaseApi&theme=graywhite)
 
 An API project using Dotnet Core MVC and Entity Framework, which adds SQLite functionality and endpoints for receiving JSON bodies that are then transcribed into a database file. Serves as a generic Task List application but can be repurposed for any desired functionality. Also contains detailed documentation on how to start and setup your own Dotnet Core MVC. (Soon I'll add a minimal API branch to it).
 
-### Project 3: [CVToolBox](https://github.com/Valkorz/CVToolBox)
+### Project 3: [cv-toolbox](https://github.com/Valkorz/CVToolBox)
 ![CVToolBox](https://github-readme-stats.vercel.app/api/pin/?username=Valkorz&repo=CVToolBox&theme=graywhite)
 
 A work-in-progress Computer Vision and Artificial Intelligence library build entirely in C. The main goal is to create a library containing definitions for different data structures and AI algorithms, similar to frameworks/libraries such as OpenCV, PyTorch and TensorFlow. The main intent of the project is to educate myself on the detailed functionality of artificial intelligence.
